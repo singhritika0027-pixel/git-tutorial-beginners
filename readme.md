@@ -6,3 +6,5 @@ the best ways are:
 -Code
 -Repeat
 thank you
+# summary 
+its a nice repo
